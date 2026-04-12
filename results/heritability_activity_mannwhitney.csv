@@ -1,0 +1,5 @@
+Species,Action_col,N_Activator,N_NonActivator,Median_Activator,Median_NonActivator,Mean_Activator,Mean_NonActivator,MannWhitney_U,P_value,Significant_05
+Sorghum,Action,608,465,0.2403,0.237,0.2757,0.2658,147335.0,0.23494618472771978,False
+Maize,Action,627,582,0.2648,0.2612,0.2865,0.2869,183930.5,0.8081357551528926,False
+Sorghum,RecategorizeAction,261,239,0.2269,0.2414,0.2586,0.2771,29379.0,0.26204009859215827,False
+Maize,RecategorizeAction,262,175,0.2498,0.2576,0.2744,0.2795,22491.0,0.7375504659741414,False

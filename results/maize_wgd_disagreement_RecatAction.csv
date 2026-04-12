@@ -1,0 +1,4 @@
+SorghumGene,Sorghum_family,Sorghum_Action_used,Maize_Activator_v3ID,Maize_Activator_geneID,Maize_Activator_Maize_RecatAction,Maize_NonActivator_v3ID,Maize_NonActivator_geneID,Maize_NonActivator_Maize_RecatAction,N_Maize_Duplicates
+Sobic.001G389000,WRKY,,GRMZM2G030272,Zm00001eb015320,Activator,GRMZM2G060918,Zm00001eb395560,No Activity,2
+Sobic.004G107900,bZIP,Activator,GRMZM2G052102,Zm00001eb204490,Activator,GRMZM2G158313,Zm00001eb238570,No Activity,2
+Sobic.009G238500,ERF,Activator,GRMZM5G846057,Zm00001eb296430,Activator,GRMZM2G100982,Zm00001eb344200,No Activity,2
